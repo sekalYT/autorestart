@@ -21,7 +21,7 @@ And then I thought, why don’t I write my own auto-restart script?
 * Run the script using "python autorestart.py"
 * Enjoy!
 
-📃 Notes:
+📃 Commands:
 
 * forceupdate - restart the script without waiting time.
 * countdown - time until the next scheduled restart.
@@ -30,6 +30,7 @@ And then I thought, why don’t I write my own auto-restart script?
 
 The script contains the #settings location. Current variables will appear below it, in which you can specify the time of your restart (for example, restarthour = 22 -> restart will occur at 22:00)
 You can change hours, minutes, seconds and microseconds (I don't know what you need them for)
+I'm also put in repo a bat file for simple use on OS Windows, enjoy!
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -62,3 +63,4 @@ You can change hours, minutes, seconds and microseconds (I don't know what you n
 
 В скрипте прописано место #settings. Под ним находятся строки-переменные, в которых можно указать время вашего перезапуска (например restarthour = 22 -> перезапуск произойдёт в 22:00)
 Вы можете изменять часы, минуты, секунды и микросекунды (не знаю для чего они вам)
+Также в репозитории находится .bat файл для Windows, пользуйтесь на здоровье!
